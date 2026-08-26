@@ -1,0 +1,6 @@
+{
+  "name": "Kabosu Blog",
+  "description": "Static export of the Kabosu (Doge) blog post.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
