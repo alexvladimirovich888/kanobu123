@@ -1,6 +1,6 @@
 {
   "name": "Kabosu Blog",
-  "description": "Static export of the Kabosu (Doge) blog post.",
+  "description": "Blog post about the new family kitten Kaya (かやちゃん) and dog.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
