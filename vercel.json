@@ -1,4 +1,7 @@
 {
+  "version": 2,
+  "cleanUrls": true,
+  "trailingSlash": false,
   "rewrites": [
     {
       "source": "/archives/55857704.html",
@@ -7,6 +10,10 @@
     {
       "source": "/archives/55857704",
       "destination": "/index.html"
+    },
+    {
+      "source": "/archives/(.*)",
+      "destination": "/archives/$1"
     }
   ]
 }

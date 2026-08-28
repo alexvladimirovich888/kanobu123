@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "node server.js",
-    "build": "echo 'Static site, ready for serve'",
+    "build": "node build.js",
     "start": "node server.js"
   },
   "dependencies": {
